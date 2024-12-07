@@ -12,8 +12,8 @@ class Config:
     FSUB = "about_tosuu"
     CHID = "-1002023182491"
     SUDO = "6848223695"
-    MONGO_URI = "mongodb+srv://botmaker9675208:botmaker9675208@cluster0.sc9mq8b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-    
+    MONGO_URI = "mongodb+srv://tusar:tusar1@cluster0.guw5d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
 cfg = Config()
 
 # Don't Remove Credit @VJ_Botz
